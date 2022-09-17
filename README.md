@@ -1,4 +1,4 @@
-# 💫 Hi I'm Vineeth:
+# 💫 Hi I'm Vineeth
 🔭 I’m currently working on ***ERP to Spreadsheet interfaces***, JavaScript/TypeScript utility applications, Python web automations<br>- 🌱 I’m currently learning ***_Inventory optimization_*** and ***_Data Science for supply chain_***<br>- 👯 I’m looking to collaborate on building utility tools for business.<br>- 💬 Ask me about  Business Applications, Spreadsheet Development<br>- 📫 How to reach me: By [email](vineethbabu4424@hotmail.com), [LinkedIn](https://www.linkedin.com/in/vineethbabu)<br>- ⚡ Fun fact: I have more books in my bookshelf than I can read in a lifetime.
 
 
